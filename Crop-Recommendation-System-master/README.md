@@ -23,8 +23,3 @@ rainfall - rainfall in mm
 - SGD Classifier
 - K-Nearest-Neighbors
 - Decision Tree
-
-## Contributors 👨‍💻
-
-- [Mohammed Gaiban Khan](https://github.com/Gaiban-Khan)
-- [Manjunath Kallatti](https://github.com/manjunath7901)
